@@ -25,10 +25,10 @@
 		
 		<br><br>
 
-	<!-- Free passes: <form:input path="freePasses" />
-		<form:errors path="freePasses" cssClass="error" /> 
+	     Free passes: <form:input path="fPasses" />
+		<form:errors path="fPasses" cssClass="error" /> 
 		
-		<br><br>-->	
+		<br><br>	
 
         Postal Code: <form:input path="postalCode" />
 		<form:errors path="postalCode" cssClass="error" /> 
